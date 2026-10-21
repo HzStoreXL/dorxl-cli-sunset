@@ -41,9 +41,9 @@ paste
 ctrl+x
 y
 enter
+
 ```
 6. Run the script
-```
 ```
 python main.py
 ```
