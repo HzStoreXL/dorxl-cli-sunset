@@ -36,7 +36,6 @@ Menambahkan Environment Variables:
 ```
 nano .env
 ```
-```
 enter
 paste
 ctrl+x
