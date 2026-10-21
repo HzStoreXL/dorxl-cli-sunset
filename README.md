@@ -1,16 +1,25 @@
-# MYnyak Engsel Sunset
+# MYnyak Engsel Sunset X Heavenly Demons
 
 ![banner](bnr.png)
 
 CLI client for a certain Indonesian mobile internet service provider.
 
 # How to get environtment Variables
-Go to [OUR TELEGRAM CHANNEL](https://t.me/alyxcli)
+Go to [OUR TELEGRAM CHANNEL](https://t.me/Smartsniffer)
 Copy the provided environment variables and paste it into a text file named `.env` in the same directory as `main.py`.
 You can use nano or any text editor to create the file.
 
-# How to run with TERMUX
-1. Update & Upgrade Termux
+# cara menggunakan dengan TERMUX
+
+catatan untuk yang baru pertama kali pakai termux install ini dulu
+
+copy paste semua di termux lalu enter, lakukan saat satu 
+
+### pilih salah satu metode mau A atau B , jika ingin install saja gunakan metode A
+
+## metode A
+#### install tanpa melihat semua log paket yang di install 
+1. update 
 ```
 pkg update && pkg upgrade -y
 ```
@@ -20,11 +29,11 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://github.com/HzStoreXL/dorxl-cli-sunset
+git clone https://github.com/RejctXvpn/rejctx-demons-cli-main
 ```
 4. Open the folder
 ```
-cd dorxl-cli-sunset
+cd rejctx-demons-cli-main
 ```
 5. Setup
 ```
@@ -45,6 +54,10 @@ enter
 6. Run the script
 ```
 python main.py
+```
+7. Shell
+```
+git pull --rebase
 ```
 
 # Info
