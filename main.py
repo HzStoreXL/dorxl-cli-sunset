@@ -43,7 +43,7 @@ def show_main_menu(profile):
     print("3. 🛒Isi Kuota Data Xl HOT")
     print("4. 🛒Isi Kuota Data Xl HOT-2")
     print("5. Beli Paket Berdasarkan Option Code")
-    print("6. 🖨Isi Paket Semua Data Option Code")
+    print("6. 📡Isi Paket Semua Data Option Code")
     print("7. Beli Semua Paket di Family Code (loop)")
     print("8. Riwayat Transaksi")
     print("9. Family Plan/Akrab Organizer")
