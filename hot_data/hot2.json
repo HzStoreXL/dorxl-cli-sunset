@@ -15,18 +15,18 @@
                 "order": 4
             },
             {
-                "family_name": "Vidio Ultimate",
-                "family_code": "e2dbb9ed-bc4c-4d09-9e1f-78d54ec9917d",
+                "family_name": "Apps Quota Xtra Combo Plus 1GB",
+                "family_code": "a36f58aa-850b-486e-96c3-2b56a15b24b4",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "9614fdf7-e5c5-487f-9106-46ef22c9d202",
-                "option_name": "All Screen + 5GB",
-                "order": 1
+                "variant_code": "f84cbead-78c0-4f58-a9a1-59954cc4700f",
+                "option_name": "XL Home Disc 15%",
+                "order": 11
             }
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 145000,
+        "overwrite_amount": 0,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
