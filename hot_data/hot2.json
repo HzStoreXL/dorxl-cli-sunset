@@ -63,6 +63,36 @@
         "amount_idx": -1
     },
     {
+        "name": "XL Ultra 5G+",
+        "price": "Rp50000",
+        "detail": "\nTerms & Conditions1.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "XL Ultra 5G+",
+                "family_code": "4632cfca-72d8-417e-b790-d7ab3a7825f6",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "636b9e68-5ef3-4383-b0c7-5f130027fc03",
+                "option_name": "100GB+100GB 5G",
+                "order": 8
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 7
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 50000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
         "name": "Conference",
         "price": "Rp3000",
         "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
