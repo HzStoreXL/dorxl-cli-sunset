@@ -63,18 +63,18 @@
         "amount_idx": -1
     },
     {
-        "name": "Pros Champion 20GB + Unlimited",
-        "price": "Rp40000",
-        "detail": "\nUnlimited WA & Spotify.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "name": "Pilih Paket",
+        "price": "Rp30000",
+        "detail": "\nFlexMini Package Terms & Conditions1.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "Xtra Combo Flex",
-                "family_code": "3c71892a-852c-4a0f-8cb5-9cf731e26508",
+                "family_name": "FlexMini",
+                "family_code": "48041386-a8ce-4f44-a2b7-2a94df7e8c1c",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "e7720acc-4ea3-4c68-9e6b-a181495b21df",
-                "option_name": "Pros Champion 20GB",
-                "order": 111
+                "variant_code": "75df7a2d-19f3-4120-bb8f-8b55b60c834d",
+                "option_name": "FlexMini 8GB",
+                "order": 6
             },
             {
                 "family_name": "QRIS D 0",
@@ -83,12 +83,12 @@
                 "migration_type": "NONE",
                 "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
                 "option_name": "QRIS D 0",
-                "order": 11
+                "order": 7
             }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 40000,
+        "overwrite_amount": 30000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
