@@ -73,6 +73,36 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "636b9e68-5ef3-4383-b0c7-5f130027fc03",
+                "option_name": "65GB",
+                "order": 5
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "1fe292a5-5fef-430e-917b-e0eaeeb89f93",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "79ee96f3-5fdd-453a-98bf-6d8bf6d561a8",
+                "option_name": "QRIS D 0",
+                "order": 1
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 100000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "XL Ultra 5G+",
+        "price": "Rp100000",
+        "detail": "\nTerms & Conditions1.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "XL Ultra 5G+",
+                "family_code": "4632cfca-72d8-417e-b790-d7ab3a7825f6",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "636b9e68-5ef3-4383-b0c7-5f130027fc03",
                 "option_name": "200GB+200GB 5G",
                 "order": 6
             },
