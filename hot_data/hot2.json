@@ -63,18 +63,18 @@
         "amount_idx": -1
     },
     {
-        "name": "Pilih Paket",
-        "price": "Rp60000",
+        "name": "FlexMini",
+        "price": "Rp26000",
         "detail": "\nFlexMini Package Terms & Conditions1.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
-                "family_name": "FlexMax",
-                "family_code": "48041386-a8ce-4f44-a2b7-2a94df7e8c1c",
+                "family_name": "Favorite",
+                "family_code": "22cfa6c3-ba3f-4f4b-8837-e7fe247d7da8",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "b03d1438-fad8-4f50-8838-d7eb45dbdf10",
-                "option_name": "FlexMax 19GB",
-                "order": 6
+                "variant_code": "046cd977-6fd5-4069-92c0-9ccf813fb71f",
+                "option_name": "30GB + 30GB",
+                "order": 18
             },
             {
                 "family_name": "QRIS D 0",
@@ -88,7 +88,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 60000,
+        "overwrite_amount": 26000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
