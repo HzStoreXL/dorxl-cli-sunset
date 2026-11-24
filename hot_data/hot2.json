@@ -70,7 +70,7 @@
             {
                 "family_name": "FlexMini",
                 "family_code": "48041386-a8ce-4f44-a2b7-2a94df7e8c1c",
-                "is_enterprise": false,
+                "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_code": "75df7a2d-19f3-4120-bb8f-8b55b60c834d",
                 "option_name": "FlexMini 8GB",
