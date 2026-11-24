@@ -65,7 +65,7 @@
     {
         "name": "XL Ultra 5G+",
         "price": "Rp50000",
-        "detail": "\nTerms & Conditions1.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "detail": "\nTerms & Conditions1.\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
                 "family_name": "XL Ultra 5G+",
@@ -86,7 +86,7 @@
                 "order": 7
             }
         ],
-        "payment_for": "BUY_PACKAGE",
+        "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 50000,
         "token_confirmation_idx": 1,
