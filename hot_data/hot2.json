@@ -288,19 +288,19 @@
             },
             {
                 "family_name": "QRIS D 0",
-                "family_code": "e4c520aa-bd9e-41a1-b68d-477018fbcfb1",
+                "family_code": "1fe292a5-5fef-430e-917b-e0eaeeb89f93",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "daffaf4c-25ef-414b-880c-79ba4a907253",
+                "variant_code": "79ee96f3-5fdd-453a-98bf-6d8bf6d561a8",
                 "option_name": "QRIS D 0",
                 "order": 1
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
+        "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 50000,
         "token_confirmation_idx": 1,
-        "amount_idx": -1
+        "amount_idx": -0
     },
     {
         "name": "Conference",
