@@ -300,7 +300,7 @@
         "ask_overwrite": false,
         "overwrite_amount": 50000,
         "token_confirmation_idx": 1,
-        "amount_idx": -0
+        "amount_idx": -1
     },
     {
         "name": "Conference",
