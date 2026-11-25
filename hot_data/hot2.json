@@ -296,7 +296,7 @@
                 "order": 5
             }
         ],
-        "payment_for": "BUY_PACKAGE",
+        "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 50000,
         "token_confirmation_idx": 1,
